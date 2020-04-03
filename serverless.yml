@@ -8,6 +8,7 @@ provider:
   name: aws
   runtime: nodejs12.x
   profile: SpindDancePrzybytek
+  region: us-east-2
 
 functions:
   currentTime:
