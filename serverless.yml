@@ -9,6 +9,7 @@ provider:
   runtime: nodejs12.x
   profile: SpindDancePrzybytek
   region: us-east-2
+  stage: spindance
 
 functions:
   currentTime:
